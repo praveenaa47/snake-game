@@ -1,0 +1,30 @@
+.gameCanvas{
+ background-color: #D3EE98;
+ border-radius: 20px;
+ border: 3px solid sienna;
+ box-shadow: 2px 4px 6px saddlebrown;
+ 
+}
+
+
+.container{
+  text-align: center;
+  margin-top: 10px;
+}
+
+.score{
+  color:aliceblue;
+  font-size: 24px;
+}
+
+.high-score{
+  color:#B8001F;
+  font-size: 18px;
+}
+
+.game-over{
+  color: red;
+  font-size: 24px;
+  margin-top: 20px;
+}
+
